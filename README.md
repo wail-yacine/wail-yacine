@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋 I'm Yacine
 
-<!--
-**wail-yacine/wail-yacine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year Computer/Software Engineering student (5-year program)  
+🔐 Starting a specialization in Information Security next year — cybersecurity, cloud security, IoT security  
+⚡ Interested in AI automation, electronics, and cybersecurity
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages/DB:** Java,Python, MySQL
+- **Networking:** not completed CCNA
+- **Currently exploring:** AI automation, cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I'm working on
+- Building out projects as I go deeper into security and automation
+- Start experimenting with AI automation tools
+- 
+## 📫 Reach me
+- LinkedIn: [www.linkedin.com/in/wail-yacine-9b9437368]
+- Email: [the.hood453@gmail.com]
+- ![Yacine's GitHub stats](https://github-readme-stats.vercel.app/api?username=wail-yacine&show_icons=true&theme=radical)
